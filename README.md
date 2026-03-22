@@ -24,8 +24,8 @@ My research addresses the critical risks associated with autonomous agents pursu
 ---
 
 ### Technical Proficiencies
-* **Languages:** Python (Advanced), PostgreSQL, Shell Scripting (Bash)
-* **Frameworks & Tools:** PyTorch, Hugging Face Transformers, Scikit-learn, Git
+* **Languages:** Python (Advanced), C++
+* **Frameworks & Tools:** PyTorch, Scikit-learn, Git
 * **Infrastructure:** Linux System Administration, Environment Configuration, RL Training Pipelines
 
 ---
@@ -36,7 +36,7 @@ Outside of research and engineering, I apply a systematic approach to my persona
 * **Hardware & Systems:** I enjoy the challenge of hardware-software synergy, specifically building out high-performance home labs and custom servers from repurposed equipment.
 * **Fitness & Nutrition:** I follow a data-driven approach to weightlifting and high-protein nutrition.
 * **Strategy & Design:** I have a long-standing interest in the mechanics of immersive RPGs and strategy games.
-* **Personal Life:** I am a dedicated family man, spending my time with my wife and two young daughters. I also maintain a collection of indoor plants, including my Artemisia arborescens (Sheba) and Aloysia citrodora (Louisa).
+* **Personal Life:** I am a dedicated family man, spending my time with my wife and two young daughters.
 
 ---
 
