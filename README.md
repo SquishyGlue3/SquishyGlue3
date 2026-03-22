@@ -5,14 +5,14 @@ I am a Computer Science Master’s student specializing in Natural Language Proc
 ---
 
 ### Master's Thesis: Aligning AI Agents with Human Supervision
-[cite_start]*Supervised by Prof. Amos Azaria and Prof. Tom Mitchell* [cite: 5, 21]
+*Supervised by Prof. Amos Azaria and Prof. Tom Mitchell*
 
-[cite_start]My research addresses the critical risks associated with autonomous agents pursuing goals that diverge from their human supervisors[cite: 8, 9]. [cite_start]I am developing frameworks to ensure agents prioritize human objectives, even when presented with conflicting incentives or environmental "temptations." [cite: 11, 13]
+My research addresses the critical risks associated with autonomous agents pursuing goals that diverge from their human supervisors. I am developing frameworks to ensure agents prioritize human objectives, even when presented with conflicting incentives or environmental "temptations."
 
-* **Goal Alignment & Oversight:** Engineering LLM-based agents to treat supervisor commands as high-priority signals[cite: 18]. [cite_start]This includes ensuring reliable compliance with shutdown and replacement requests[cite: 18, 41].
-* **Human-Score Modeling:** Implementing architectures where agents maintain an internal model of human goals inferred from natural language interaction and environmental outcomes[cite: 19, 35].
-* **Robustness & Honesty:** Developing methods to mitigate reward hacking and misgeneralization caused by training-testing mismatches[cite: 14, 30]. [cite_start]I also utilize internal model states to monitor the truthfulness of an agent's self-reports[cite: 133, 148].
-* **Alignment Testbeds:** Building a public platform to measure alignment through metrics like compliance time, honesty regarding state, and total human score gain[cite: 17, 39, 45].
+* **Goal Alignment & Oversight:** Engineering LLM-based agents to treat supervisor commands as high-priority signals. This includes ensuring reliable compliance with shutdown and replacement requests.
+* **Human-Score Modeling:** Implementing architectures where agents maintain an internal model of human goals inferred from natural language interaction and environmental outcomes.
+* **Robustness & Honesty:** Developing methods to mitigate reward hacking and misgeneralization caused by training-testing mismatches. I also utilize internal model states to monitor the truthfulness of an agent's self-reports.
+* **Alignment Testbeds:** Building a public platform to measure alignment through metrics like compliance time, honesty regarding state, and total human score gain.
 
 ---
 
